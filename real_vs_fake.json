@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Morgan Silver Dollar",
+    "subtitle": "United States, 1878–1921 — one of the most reproduced silver dollars",
+    "image": "real_vs_fake_images/morgan_silver_dollar.jpg",
+    "key_facts": [
+      "Composition: 90% silver, 10% copper",
+      "Official weight: 26.73g, diameter: 38.1mm",
+      "Struck at Philadelphia, New Orleans, San Francisco, Carson City and Denver mints",
+      "Common fakes are cast copies or struck from transfer dies made from a genuine coin"
+    ],
+    "signs_real": [
+      "Design details (Liberty's hair, eagle's feathers) are sharp and fully struck",
+      "Reeded edge is evenly spaced with no seam line",
+      "Rings with a clear, sustained tone when gently spun on a hard surface",
+      "Weight and diameter match the official U.S. Mint specification"
+    ],
+    "signs_fake": [
+      "Blurry or mushy design details, especially in the hair and feathers",
+      "A visible seam line running around the edge (sign of a cast copy)",
+      "A dull thud instead of a ring when spun or tapped",
+      "Noticeably lighter or heavier than the genuine coin, or slightly off in diameter"
+    ],
+    "home_check_steps": [
+      "Weigh the coin on a gram scale and compare to the official spec",
+      "Check the diameter with calipers",
+      "Look closely at the edge reeding under good light for a seam",
+      "Test with a magnet — genuine silver coins are not magnetic"
+    ],
+    "care_tips": [
+      "Store in a non-PVC coin flip or capsule",
+      "Handle only by the edges to avoid finger oils on the surface",
+      "Keep away from humidity to prevent toning damage"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "American Gold Eagle",
+    "subtitle": "United States bullion coin — a common counterfeit target due to its gold content",
+    "image": "real_vs_fake_images/american_gold_eagle.jpg",
+    "key_facts": [
+      "Composition: 91.67% gold (22 karat), alloyed with silver and copper for durability",
+      "Issued in 1 oz, 1/2 oz, 1/4 oz and 1/10 oz sizes since 1986",
+      "1 oz coin weighs 33.93g at a diameter of 32.7mm",
+      "Fakes are frequently gold-plated tungsten, which mimics gold's density closely"
+    ],
+    "signs_real": [
+      "Sharp, frosted design against a mirror-like or satin background depending on finish",
+      "Correct weight to the hundredth of a gram on a precision scale",
+      "Passes a magnet test — gold is not magnetic",
+      "Edge reeding is crisp and consistent"
+    ],
+    "signs_fake": [
+      "Design looks slightly soft or the fields look grainy",
+      "Weight is off even slightly — fake gold coins are often gold-plated tungsten or brass",
+      "Attracted to a strong magnet, or the coin's density feels wrong for its size",
+      "Edge reeding looks uneven or machine-stamped inconsistently"
+    ],
+    "home_check_steps": [
+      "Weigh on a precision scale accurate to 0.01g",
+      "Do a magnet test — gold and silver are not magnetic",
+      "Compare diameter and thickness to official specs",
+      "If in doubt, have it tested by a dealer with an XRF or ping tester"
+    ],
+    "care_tips": [
+      "Keep original mint packaging or a certified holder if available",
+      "Avoid touching the surface directly",
+      "Store in a secure, insured location"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Walking Liberty Half Dollar",
+    "subtitle": "United States, 1916–1947 — popular with counterfeiters for its silver content",
+    "image": "real_vs_fake_images/walking_liberty_half_dollar.jpg",
+    "key_facts": [
+      "Composition: 90% silver, 10% copper",
+      "Official weight: 12.5g, diameter: 30.6mm",
+      "Designed by Adolph A. Weinman; later reused for the modern Silver Eagle reverse",
+      "Key dates like the 1916-D and 1921-D are the most frequently counterfeited"
+    ],
+    "signs_real": [
+      "Liberty's robe and the eagle's wing feathers are crisply struck",
+      "Correct silver weight and ring test tone",
+      "Mint mark placement matches known genuine examples for the date",
+      "Natural, even toning if aged"
+    ],
+    "signs_fake": [
+      "Soft, rounded details especially on Liberty's arm and the sun rays",
+      "Mint mark looks added on, misplaced, or oddly shaped",
+      "Unnaturally shiny or artificially toned surfaces",
+      "Fails the weight or ring test"
+    ],
+    "home_check_steps": [
+      "Compare the mint mark position and shape to a verified reference image",
+      "Weigh and measure the coin",
+      "Do a ring test on a hard surface",
+      "Check for file marks or seams along the edge"
+    ],
+    "care_tips": [
+      "Store flat in individual holders to avoid rim wear",
+      "Avoid cleaning — it destroys value even on genuine coins",
+      "Keep a written log of provenance if bought from a private seller"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Ancient Roman Denarius",
+    "subtitle": "Ancient Rome — frequently reproduced for the collector and tourist market",
+    "image": "real_vs_fake_images/ancient_roman_denarius.jpg",
+    "key_facts": [
+      "Struck roughly 211 BC to the early 3rd century AD",
+      "Composition: silver, though purity dropped significantly over time",
+      "Hand-struck between two dies, so genuine coins are never perfectly round or centered",
+      "Museum and tourist-shop replicas are common and are often marked 'COPY' by law — check the edge for this stamp"
+    ],
+    "signs_real": [
+      "Irregular, hand-struck shape typical of ancient minting techniques",
+      "Natural wear patterns consistent with centuries of circulation or burial",
+      "Metal surface shows genuine aged patina, not painted-on color",
+      "Legends (inscriptions) match known genuine coin types for the emperor/period"
+    ],
+    "signs_fake": [
+      "Perfectly round, machine-made appearance uncharacteristic of ancient strikes",
+      "Artificial, uniform 'antiquing' that looks painted or chemically applied",
+      "Design doesn't match any documented genuine type — a red flag for a fantasy piece",
+      "Suspiciously light for its apparent silver content"
+    ],
+    "home_check_steps": [
+      "Compare the design and legend against a reference catalog (e.g. RIC)",
+      "Look at the strike under magnification for hand-struck irregularities",
+      "Check whether the patina looks layered/natural vs. flat and uniform",
+      "When possible, buy only from dealers who guarantee authenticity in writing"
+    ],
+    "care_tips": [
+      "Never clean an ancient coin — it can destroy both value and patina",
+      "Store in inert holders, away from PVC-based flips",
+      "Keep documentation of purchase and provenance"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "British Gold Sovereign",
+    "subtitle": "United Kingdom — a globally popular bullion coin, often counterfeited",
+    "image": "real_vs_fake_images/british_gold_sovereign.jpg",
+    "key_facts": [
+      "Composition: 22 karat gold (91.67% pure), the rest copper for hardness",
+      "Official weight: 7.99g, diameter: 22.05mm",
+      "Minted continuously (with gaps) since 1817; also struck historically in Australia, India and South Africa",
+      "Widely faked because its small size and gold content make plating profitable"
+    ],
+    "signs_real": [
+      "Sharp St. George and the Dragon design on the reverse",
+      "Correct gold weight and diameter to the official spec",
+      "Passes a magnet test",
+      "Edge and rim details are clean and consistent"
+    ],
+    "signs_fake": [
+      "Design looks flat or slightly blurred compared to genuine references",
+      "Incorrect weight — often gold-plated base metal",
+      "Attracted to a magnet or has an unusual sound when dropped on a hard surface",
+      "Date/mint mark combination doesn't match any genuine year issued"
+    ],
+    "home_check_steps": [
+      "Weigh and measure against the official sovereign specification",
+      "Do a magnet test",
+      "Compare the date and mint mark to a genuine reference list",
+      "Check the edge for consistent, machine-even reeding"
+    ],
+    "care_tips": [
+      "Store in a capsule to prevent surface scratches",
+      "Avoid handling the face and reverse directly",
+      "Buy only from reputable, established bullion dealers"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Chinese Silver Panda Coin",
+    "subtitle": "China — one of the most counterfeited modern bullion coins",
+    "image": "real_vs_fake_images/chinese_silver_panda_coin.jpg",
+    "key_facts": [
+      "Composition: .999 fine silver",
+      "The panda design changes every year, making a year/design mismatch an instant red flag",
+      "Size and weight specs have changed over the decades (e.g. 27g pre-2016, 30g from 2016 onward)",
+      "Counterfeits are produced at industrial scale, some good enough to fool a casual buyer"
+    ],
+    "signs_real": [
+      "Panda design details are sharp with visible fur texture",
+      "Correct weight and diameter for the given year's specification (sizes changed over the years)",
+      "Coin has the correct year-specific design, since the panda changes yearly",
+      "Surface has a genuine proof-like or matte finish depending on the issue"
+    ],
+    "signs_fake": [
+      "Panda design looks soft, flat, or slightly 'melted'",
+      "Wrong weight/diameter for the stated year",
+      "Design doesn't match the officially issued panda design for that year",
+      "Poor edge finishing or visible mold seams"
+    ],
+    "home_check_steps": [
+      "Look up the official design for that exact year and compare closely",
+      "Weigh and measure the coin",
+      "Check the edge for seams (sign of a cast fake)",
+      "Buy only from dealers who guarantee authenticity"
+    ],
+    "care_tips": [
+      "Store in original mint capsules when available",
+      "Keep away from humidity to prevent toning",
+      "Avoid excessive handling of the design surfaces"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Mercury Dime",
+    "subtitle": "United States, 1916–1945 — commonly altered to fake rare dates",
+    "image": "real_vs_fake_images/mercury_dime.jpg",
+    "key_facts": [
+      "Composition: 90% silver, 10% copper",
+      "Official weight: 2.5g, diameter: 17.9mm",
+      "Officially named the Winged Liberty Head dime — 'Mercury' is a popular nickname",
+      "The 1916-D is the key date and the one most often faked by altering a common mint mark"
+    ],
+    "signs_real": [
+      "Full split bands visible on the reverse fasces for well-struck examples",
+      "Mint mark (if any) shows natural wear consistent with the coin's grade",
+      "Correct weight and silver content",
+      "Date and mint mark match known genuine combinations"
+    ],
+    "signs_fake": [
+      "Added or altered mint marks to simulate a rare date/mint combination",
+      "Mint mark looks slightly different in font or placement than genuine examples",
+      "Details look artificially sharpened or the surface shows tooling marks",
+      "Weight or diameter slightly off"
+    ],
+    "home_check_steps": [
+      "Examine the mint mark under magnification for tool marks or an odd font",
+      "Compare against a verified image of the same date/mint combination",
+      "Weigh the coin",
+      "When a date looks like a key rarity, get it authenticated before paying a premium"
+    ],
+    "care_tips": [
+      "Store individually to avoid contact marks",
+      "Avoid cleaning, which can remove evidence of alteration along with value",
+      "Get key dates certified by a grading service"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Krugerrand",
+    "subtitle": "South Africa — the world's most widely counterfeited gold bullion coin",
+    "image": "real_vs_fake_images/krugerrand.jpg",
+    "key_facts": [
+      "Composition: 22 karat gold (91.67% pure), alloyed with copper for a distinctive reddish tone",
+      "First minted in 1967; 1 oz version weighs 33.93g at 32.6mm diameter",
+      "Also issued in 1/2, 1/4 and 1/10 oz fractional sizes",
+      "Its long production run and popularity make it a top target for tungsten-core fakes"
+    ],
+    "signs_real": [
+      "Sharp springbok antelope design with fine coat texture",
+      "Correct gold weight (troy ounce fractions) and diameter",
+      "Passes a magnet test",
+      "Edge reeding is even and consistent"
+    ],
+    "signs_fake": [
+      "Springbok design looks soft or slightly distorted",
+      "Incorrect weight — often a gold-plated tungsten core, which mimics gold's density",
+      "Attracted to a magnet, or unusually dull sound when dropped on a hard surface",
+      "Poor quality edge reeding or visible casting seams"
+    ],
+    "home_check_steps": [
+      "Weigh on a precision scale — this catches most tungsten-core fakes",
+      "Do a magnet test",
+      "Compare diameter and thickness to official specs",
+      "Have a dealer perform an ultrasonic or XRF test for higher-value purchases"
+    ],
+    "care_tips": [
+      "Store in a sealed capsule or tamper-evident holder",
+      "Buy only from established, reputable bullion dealers",
+      "Keep purchase receipts and any certificates of authenticity"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Saint-Gaudens Double Eagle",
+    "subtitle": "United States, 1907–1933 — a high-value target for both fantasy strikes and plated fakes",
+    "image": "real_vs_fake_images/saint_gaudens_double_eagle.jpg",
+    "key_facts": [
+      "Composition: 90% gold, 10% copper; face value $20",
+      "Official weight: 33.44g, diameter: 34mm",
+      "Considered one of the most beautiful U.S. coin designs, by sculptor Augustus Saint-Gaudens",
+      "The 1933 date is illegal to own privately in most cases and any offered for sale should raise immediate suspicion"
+    ],
+    "signs_real": [
+      "High-relief design details on Liberty and the eagle are sharp with no mushiness",
+      "Correct gold weight and diameter to the U.S. Mint specification",
+      "Passes a magnet test",
+      "Edge lettering (on the earlier variety) is even and correctly spaced"
+    ],
+    "signs_fake": [
+      "Design looks soft, especially in Liberty's face and the sun rays behind the eagle",
+      "Wrong weight — common in gold-plated counterfeits struck in brass or tungsten",
+      "Edge lettering is uneven, misspelled, or missing on a variety that should have it",
+      "Surface shows file marks from a fake being altered to a rare date"
+    ],
+    "home_check_steps": [
+      "Weigh on a precision scale accurate to 0.01g",
+      "Do a magnet test",
+      "Check the edge lettering spacing and font against verified references",
+      "Never buy an unauthenticated 1933 example — verify legal ownership history first"
+    ],
+    "care_tips": [
+      "Store in a certified holder from a major grading service",
+      "Avoid any cleaning or polishing",
+      "Insure high-value pieces and keep full provenance records"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Canadian Gold Maple Leaf",
+    "subtitle": "Canada — targeted by fakes and by a real-world laser micro-engraved security feature",
+    "image": "real_vs_fake_images/canadian_gold_maple_leaf.jpg",
+    "key_facts": [
+      "Composition: .9999 fine gold, among the purest bullion coins in the world",
+      "1 oz coin weighs 31.1g at 30mm diameter",
+      "Since 2013, genuine coins carry a laser-engraved micro-text security mark visible under magnification",
+      "Also issued in silver (.9999 fine) with the same anti-counterfeiting features"
+    ],
+    "signs_real": [
+      "Sharp maple leaf design with fine, clean radial lines in the background",
+      "Correct weight and diameter for .9999 fine gold or silver",
+      "Laser micro-engraved security mark is present and readable under magnification (2013 onward)",
+      "Passes a magnet test"
+    ],
+    "signs_fake": [
+      "Missing or blurry security micro-engraving on coins dated 2013 or later",
+      "Design looks slightly soft or the radial background lines are uneven",
+      "Incorrect weight for the stated purity",
+      "Attracted to a magnet or has an off density for its size"
+    ],
+    "home_check_steps": [
+      "Check for the laser micro-engraved mark with a loupe or macro phone lens (2013+ coins)",
+      "Weigh on a precision scale",
+      "Do a magnet test",
+      "Compare the radial line pattern to an official reference image"
+    ],
+    "care_tips": [
+      "Store in original mint packaging or a certified holder",
+      "Handle only by the edges",
+      "Keep purchase documentation for resale"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Spanish 8 Reales (Piece of Eight)",
+    "subtitle": "Spanish Empire, 16th–19th century — heavily reproduced for the shipwreck and pirate-coin market",
+    "image": "real_vs_fake_images/spanish_8_reales.jpg",
+    "key_facts": [
+      "Composition: silver, roughly .900–.930 fine depending on era and mint",
+      "Nicknamed 'pieces of eight' because it could be physically cut into eight bits for smaller change",
+      "Minted across Spain and its colonies (Mexico City, Potosí, Lima) with different mint marks",
+      "Genuine shipwreck-recovered examples usually have documented provenance and salvage certificates"
+    ],
+    "signs_real": [
+      "Irregular, hand-hammered or crudely milled shape typical of the era",
+      "Mint mark and assayer initials match documented combinations for the period",
+      "Wear and corrosion patterns are consistent with genuine age or seawater exposure",
+      "Comes with or matches documented provenance, especially for shipwreck coins"
+    ],
+    "signs_fake": [
+      "Overly uniform, machine-perfect shape inconsistent with hand-struck minting",
+      "Mint mark or assayer initials don't match any known genuine combination",
+      "Artificial 'sea-salvage' corrosion that looks applied rather than naturally formed",
+      "No provenance or documentation for a coin claimed to be shipwreck-recovered"
+    ],
+    "home_check_steps": [
+      "Compare mint marks and assayer initials to a reference catalog",
+      "Check whether wear/corrosion looks layered and natural vs. uniformly applied",
+      "Ask for and verify any salvage or provenance documentation",
+      "Weigh the coin against known genuine examples of the same type"
+    ],
+    "care_tips": [
+      "Avoid cleaning — original surfaces and encrustation can be part of the value",
+      "Store in an inert, acid-free holder",
+      "Keep all provenance and salvage paperwork with the coin"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  },
+  {
+    "title": "Austrian Gold Philharmonic",
+    "subtitle": "Austria — Europe's best-selling gold bullion coin, a frequent counterfeit target",
+    "image": "real_vs_fake_images/austrian_gold_philharmonic.jpg",
+    "key_facts": [
+      "Composition: .9999 fine gold",
+      "1 oz coin weighs 31.1g at 37mm diameter",
+      "First issued in 1989, featuring instruments of the Vienna Philharmonic Orchestra",
+      "Its large, thin format makes weight and diameter checks especially effective against fakes"
+    ],
+    "signs_real": [
+      "Crisp detail on the organ pipes and instrument engravings",
+      "Correct weight and diameter for .9999 fine gold",
+      "Passes a magnet test",
+      "Even, consistent edge reeding"
+    ],
+    "signs_fake": [
+      "Instrument details look soft, blurred, or slightly misaligned",
+      "Incorrect weight or diameter for the claimed purity",
+      "Attracted to a magnet",
+      "Edge reeding is inconsistent or shows casting seams"
+    ],
+    "home_check_steps": [
+      "Weigh on a precision scale accurate to 0.01g",
+      "Measure diameter and thickness with calipers",
+      "Do a magnet test",
+      "Compare instrument engraving detail to an official reference image"
+    ],
+    "care_tips": [
+      "Store in original mint packaging or a certified holder",
+      "Avoid direct handling of the design surfaces",
+      "Buy only from established, reputable bullion dealers"
+    ],
+    "disclaimer": "This guide is educational only. For high-value coins, always get a third-party grading service (e.g. PCGS or NGC) to confirm authenticity before buying or selling."
+  }
+]
